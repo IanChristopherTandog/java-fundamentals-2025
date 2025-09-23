@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day01-git-setup-basics/OOP/OOP.iml" filepath="$PROJECT_DIR$/day01-git-setup-basics/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-git-setup-basics/day01-git-setup-basics.iml" filepath="$PROJECT_DIR$/day01-git-setup-basics/day01-git-setup-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-learning-journey.iml" filepath="$PROJECT_DIR$/java-learning-journey.iml" />
+    </modules>
+  </component>
+</project>
